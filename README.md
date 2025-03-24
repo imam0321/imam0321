@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a s
 - 🔭 Currently working on **Trip Haven**, a travel booking platform.
 - 🌱 Learning and exploring **AI and Machine Learning** for future projects.
 - 💡 Passionate about **frontend performance, authentication, and backend optimization**.
-- 📫 How to reach me: **imam0321@gmail.com**
+- 📫 How to reach me: **imam.hossain0321@gmail.com**
 
 ## 🛠️ Tech Stack
 ### Frontend
