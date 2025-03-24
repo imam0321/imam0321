@@ -38,7 +38,7 @@ A clock-in/clock-out attendance management system using React, Node.js, and Mong
 A complete restaurant management system with online ordering and admin panel.
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/imam0321/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://[www.linkedin.com/in/imam0321](https://www.linkedin.com/in/imam-hossain-691619196/)/) 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/imam0321)
 
 ---
