@@ -25,10 +25,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a s
 - ☁️ **Vercel, Firebase, Netlify**
 
 ## 📊 GitHub Stats
-![Imam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imam0321&show_icons=true&theme=radical)
-
-## 🔥 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imam0321&layout=compact&theme=radical)
+![Imam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imam0321&show_icons=true&theme=radical&include_all_commits=true)
 
 ## 🚀 Featured Projects
 ### [Trip Haven](https://github.com/imam0321/trip-haven)
