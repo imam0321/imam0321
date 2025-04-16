@@ -3,7 +3,6 @@
 Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a strong focus on **React, Next.js, and Node.js**. I love building scalable web applications and solving complex problems with clean and efficient code.
 
 ## 🚀 About Me
-- 🔭 Currently working on **Trip Haven**, a travel booking platform.
 - 🌱 Learning and exploring **AI and Machine Learning** for future projects.
 - 💡 Passionate about **frontend performance, authentication, and backend optimization**.
 - 📫 How to reach me: **imam.hossain0321@gmail.com**
