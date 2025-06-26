@@ -24,7 +24,12 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a s
 - ☁️ **Vercel, Firebase, Netlify**
 
 ## 📊 GitHub Stats
-![Imam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imam0321&show_icons=true&theme=radical&include_all_commits=true)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imam0321&show_icons=true&theme=tokyonight" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=imam0321&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imam0321&layout=compact&theme=tokyonight" />
+</p>
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/imam-hossain-691619196/) 
