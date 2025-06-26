@@ -25,13 +25,15 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a s
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imam0321&layout=compact&theme=tokyonight" /></p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=imam0321&show_icons=true&theme=tokyonight" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imam0321&layout=compact&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imam0321&show_icons=true&theme=tokyonight" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=imam0321&theme=tokyonight&hide_border=false" />
-  </p>
-</p>
+</div>
+
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/imam-hossain-691619196/) 
