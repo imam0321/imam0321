@@ -26,9 +26,11 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a s
 ## 📊 GitHub Stats
 
 <p align="center">
-  <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imam0321&layout=compact&theme=tokyonight" /></div>
-  <img src="https://github-readme-stats.vercel.app/api?username=imam0321&show_icons=true&theme=tokyonight" />
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imam0321&layout=compact&theme=tokyonight" /></p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=imam0321&show_icons=true&theme=tokyonight" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=imam0321&theme=tokyonight&hide_border=false" />
+  </p>
 </p>
 
 ## 📫 Connect With Me
