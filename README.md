@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a s
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imam0321&layout=compact&theme=tokyonight" />
 </div>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=imam0321&show_icons=true&theme=tokyonight" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=imam0321&theme=tokyonight&hide_border=false" />
 </div>
