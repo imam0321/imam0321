@@ -26,6 +26,8 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a s
 ## 📊 GitHub Stats
 ![Imam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imam0321&show_icons=true&theme=radical&include_all_commits=true)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imam0321&" alt="imam-hossain" /></p>
+
 ## 🚀 Featured Projects
 ### [Trip Haven](https://github.com/imam0321/trip-haven)
 A modern travel booking platform with authentication, trip management, and admin panel.
