@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a s
 - 🌱 Learning and exploring **AI and Machine Learning** for future projects.
 - 💡 Passionate about **frontend performance, authentication, and backend optimization**.
 - 📫 How to reach me: **imam.hossain0321@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imam0321&label=Profile%20views&color=0e75b6&style=flat" alt="imamhossain" /> </p>
 
 ## 🛠️ Tech Stack
 ### Frontend
