@@ -3,9 +3,9 @@
 
 ### 👋 About Me
 
-I'm a self-driven web programmer with a passion for building dynamic, scalable, and interactive web applications. With hands-on experience in **JavaScript, React, Node JS, PostgreSQL, and MongoDB**, I love transforming ideas into functional, user-friendly digital experiences.
+I’m a full-stack web developer with 1+ years of experience building dynamic, scalable, and interactive web applications. Skilled in JavaScript, React, Node.js, PostgreSQL, and MongoDB, I specialize in transforming ideas into smooth, user-friendly solutions.
 
-Whether it’s designing clean UI, crafting efficient APIs, or optimizing databases, I strive to deliver high-quality solutions that align with both user needs and business goals.
+From designing clean and responsive UIs to crafting efficient APIs and optimizing databases, I focus on delivering high-quality software that meets both user needs and business goals.
 
 ### 🛠️ Tech Stack
 
@@ -34,8 +34,6 @@ All of my major projects are available at my [Portfolio Website](https://imam032
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=imam0321&theme=tokyonight&hide_border=false" />
   <br/><br/>
@@ -48,3 +46,4 @@ All of my major projects are available at my [Portfolio Website](https://imam032
 
 - Email: imam.hossain0321@gmail.com  
 - LinkedIn: [linkedin.com/in/imam0321](https://www.linkedin.com/in/imam0321)
+- Portfolio: [imam0321.vercel.app](https://imam0321.vercel.app)
