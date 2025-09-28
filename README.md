@@ -1,28 +1,36 @@
-# Hi there, I'm Imam Hossain! 👋
+<h1 align="center">Hey, I'm Imam Hossain</h1>
+<h4 align="center">Software Engineer | Problem Solver | Lifelong Learner</h4>
 
-Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a strong focus on **React, Next.js, and Node.js**. I love building scalable web applications and solving complex problems with clean and efficient code.
+### 👋 About Me
 
-## 🚀 About Me
-- 🌱 Learning and exploring **AI and Machine Learning** for future projects.
-- 💡 Passionate about **frontend performance, authentication, and backend optimization**.
-- 📫 How to reach me: **imam.hossain0321@gmail.com**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imam0321&label=Profile%20views&color=0e75b6&style=flat" alt="imamhossain" /> </p>
+I'm a self-driven web programmer with a passion for building dynamic, scalable, and interactive web applications. With hands-on experience in **JavaScript, React, Node JS, PostgreSQL, and MongoDB**, I love transforming ideas into functional, user-friendly digital experiences.
 
-## 🛠️ Tech Stack
-### Frontend
-- ⚡ **React.js / Next.js**
-- 🎨 **Tailwind CSS, DaisyUI**
-- 🔄 **React Query, Axios**
-- 🌍 **Google Maps API**
+Whether it’s designing clean UI, crafting efficient APIs, or optimizing databases, I strive to deliver high-quality solutions that align with both user needs and business goals.
 
-### Backend
-- 🛠️ **Node.js / Express.js**
-- 🔐 **JWT Authentication / NextAuth.js**
-- 🗄️ **MongoDB (Mongoose ORM)**
+### 🚀 Currently Exploring
 
-### Tools & Deployment
-- 🔧 **Git, GitHub, VS Code**
-- ☁️ **Vercel, Firebase, Netlify**
+- **Prisma**
+- **Next.js features (App Router, dynamic routing)**
+
+### 🛠️ Tech Stack
+
+- **Languages:** JavaScript, TypeScript, Python
+- **Frontend:** React.js, Next.js, Redux, Tailwind CSS, ShadCN UI
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, PostgreSQL
+- **Tools & Platforms:** Git, GitHub, Postman
+  
+### 📂 Featured Projects
+
+All of my major projects are available at my [Portfolio Website](https://imam0321.vercel.app/#projects)
+
+### 💬 Ask Me About
+
+- MERN Stack Development
+- REST APIs & Database Design
+- JavaScript / TypeScript
+- Software Architecture
+- Web App Performance
 
 ## 📊 GitHub Stats
 
@@ -38,9 +46,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a s
   </div>
 </div>;
 
+## 📫 Connect with Me
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/imam-hossain-691619196/) 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/imam0321/)
-
----
+- Email: imam.hossain0321@gmail.com  
+- LinkedIn: [linkedin.com/in/imam0321](https://www.linkedin.com/in/imam0321)
