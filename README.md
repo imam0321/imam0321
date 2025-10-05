@@ -17,7 +17,7 @@ From designing clean and responsive UIs to crafting efficient APIs and optimizin
 
 ### 📂 Featured Projects
 
-All of my major projects are available at my [Portfolio Website](https://imam0321.vercel.app/#projects)
+All of my major projects are available at my [Portfolio Website](https://imam0321.vercel.app/projects)
 
 ### 🚀 Currently Exploring
 
