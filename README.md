@@ -11,7 +11,7 @@ From designing clean and responsive UIs to crafting efficient APIs and optimizin
 
 - **Languages:** JavaScript, TypeScript, Python
 - **Frontend:** React.js, Next.js, Redux, Tailwind CSS, ShadCN UI
-- **Backend:** Node.js, Express.js
+- **Backend:** Node.js, Express.js, Prisma
 - **Database:** MongoDB, PostgreSQL
 - **Tools & Platforms:** Git, GitHub, Postman
 
