@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hey, I'm Imam Hossain 👋</h1>
-  <h3>Software Engineer | TypeScript | Next js | React js | Express js | PostgreSQL | Prisma | Mongoose | Problem Solver </h3>
+  <h3>Software Engineer | TypeScript | Next js | React js | Express js | Problem Solver </h3>
 </div>
 
 ---
