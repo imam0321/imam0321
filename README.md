@@ -57,10 +57,6 @@ Role-based digital wallet system supporting secure deposits, withdrawals, transf
 
 ---
 
-👉 **See all projects:** [Portfolio Website](https://imam0321.vercel.app/projects)
-
----
-
 ## 🎯 Currently Exploring
 
 - Advanced **Prisma** ORM patterns & query optimization
