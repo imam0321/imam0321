@@ -43,17 +43,17 @@ I build real-world applications that solve practical problems. Check out my best
 ### 🎁 Special Surprise — Gift Marketplace Platform
 **Tech:** Next.js, TypeScript, Node.js, PostgreSQL, Prisma, Shadcn UI, SSLCommerz  
 Full-stack gift marketplace with customizable gifts, scheduling, secure payments, and role-based dashboards (Admin, Moderator, Customer). Integrated Cloudinary for media management and Nodemailer for notifications.  
-🔗 [Live Demo](https://special-surprise-client.vercel.app) | [Client Code](https://github.com/imam0321/special-surprise-client) | [Server Code](https://github.com/imam0321/special-surprise-server)
+🔗 [Live Demo](https://special-surprise-client.vercel.app/) | [Client Code](https://github.com/imam0321/special-surprise-client) | [Server Code](https://github.com/imam0321/special-surprise-server)
 
 ### 🌍 Tour Matrix — Tours Booking Application
 **Tech:** React.js, TypeScript, Redux Toolkit, RTK Query, Node.js, MongoDB, Redis  
 Seamless tour booking platform with advanced search, filtering, secure authentication (JWT + Passport.js), and payment integration. Features Redis caching for optimized performance and real-time availability.  
-🔗 [Live Demo](https://tour-matrix-client.vercel.app) | [Client Code](https://github.com/imam0321/tour-matrix-client) | [Server Code](https://github.com/imam0321/tour-matrix-server)
+🔗 [Live Demo](https://tour-matrix.vercel.app/) | [Client Code](https://github.com/imam0321/tour-matrix-client) | [Server Code](https://github.com/imam0321/tour-matrix-server)
 
 ### 💳 PaySphere — Digital Wallet Application
 **Tech:** React.js, TypeScript, Redux Toolkit, Node.js, MongoDB, JWT  
 Role-based digital wallet system supporting secure deposits, withdrawals, transfers, and transaction history. Built with TypeScript for type safety and Redux Toolkit for efficient state management.  
-🔗 [Live Demo](https://pay-sphere-client.vercel.app) | [Client Code](https://github.com/imam0321/PaySphere-client) | [Server Code](https://github.com/imam0321/PaySphere-server)
+🔗 [Live Demo](https://paysphere-client.vercel.app/) | [Client Code](https://github.com/imam0321/PaySphere-client) | [Server Code](https://github.com/imam0321/PaySphere-server)
 
 ---
 
